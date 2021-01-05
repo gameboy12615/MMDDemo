@@ -1,4 +1,8 @@
 ﻿Binaries/*
+Intermediate/*
+Plugins/IM4U/Binaries/*
+Plugins/IM4U/Intermediate/*
+Saved/*
 
 #################
 ## Eclipse
